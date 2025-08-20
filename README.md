@@ -18,5 +18,6 @@ The goal of this project is to enable Gemma to reliably call structured function
 
 ---
 
-## 📂 Repository Structure
+[## 📂 Repository Structure](https://huggingface.co/veenath09/gemma-2-2B-it-thinking-function_calling-V0)
+
 
